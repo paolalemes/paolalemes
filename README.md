@@ -14,10 +14,10 @@ Sou formada em Analise e Desenvolvimento de Sistemas, foco meus estudos na área
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolalemes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=paolalemes.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=pedrapapeltesoura)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=timerProject)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=CoinGame)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=paolalemes.github.io)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=pedrapapeltesoura)](https://paolalemes.github.io/pedrapapeltesoura/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=timerProject)](https://paolalemes.github.io/timerProject/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=CoinGame)](https://paolalemes.github.io/CoinGame/)
 
 ### Contatos
 
