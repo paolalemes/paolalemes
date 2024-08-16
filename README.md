@@ -1,24 +1,63 @@
-### Olá 👋
+<div align="center">
+  <img height="158" src="https://avatars.githubusercontent.com/u/66441123?v=4"  />
+</div>
 
-### Bio
-Sou formada em Analise e Desenvolvimento de Sistemas, foco meus estudos na área de desenvolvimento front end, UX e UI.
+###
 
-### Linguagens
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
+  <a href="www.linkedin.com/in/paolalemes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-### Projetos
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolalemes&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">👋Olá</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=paolalemes.github.io)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=pedrapapeltesoura)](https://paolalemes.github.io/pedrapapeltesoura/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=timerProject)](https://paolalemes.github.io/timerProject/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paolalemes&repo=CoinGame)](https://paolalemes.github.io/CoinGame/)
+###
 
-### Contatos
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height=30>](https://www.linkedin.com/in/paola-lemes-52519217b/)
+###
+
+<p align="left">Eu sou uma programadora front-end apaixonada por criar interfaces web intuitivas e responsivas. Tenho vasta experiência em HTML, CSS, e JavaScript, e já desenvolvi diversos projetos que utilizam essas tecnologias. Adoro transformar ideias em realidade através do código, e estou sempre em busca de novos desafios para aprimorar minhas habilidades.<br><br>Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar em algum projeto!</p>
+
+###
+
+<h3 align="left">🛠 Linguagens e ferramentas</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
